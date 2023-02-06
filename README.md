@@ -1,2 +1,0 @@
-# project
-Django project structure
